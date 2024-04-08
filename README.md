@@ -1,5 +1,5 @@
 ![logo](https://github.com/GuptaAgrim/GuptaAgrim/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Agrim Gupta</h1>
+<h1 align="center">"Keep it simple, stupid"</h1>
 <h3 align="center">A fervent coding artisan hailing from the vibrant landscapes of India.</h3>
 <img align="right" alt="coding" width= "400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
